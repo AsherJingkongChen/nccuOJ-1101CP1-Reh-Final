@@ -1,5 +1,5 @@
 # nccuOJ 1101CP1 Rehearsal Final (in C)
-## answer
+__Reference__
 
 __`Decimal To Binary`__
 
