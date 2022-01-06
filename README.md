@@ -1,2 +1,2 @@
-# nccuOJ-1101CP1-Reh-Rinal
+# nccuOJ 1101CP1 Rehearsal Final
 answer
