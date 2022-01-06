@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 int main(){
-  //I love when you are 105 degree
   char A[105] = {0}, B[105] = {0}, C[105] = {0};
   scanf("%[^+]%*c",A);
   scanf("%s",B);
