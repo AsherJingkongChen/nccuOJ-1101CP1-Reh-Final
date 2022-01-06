@@ -1,4 +1,4 @@
-# nccuOJ 1101CP1 Rehearsal Final
+# nccuOJ 1101CP1 Rehearsal Final (in C)
 ## answer
 
 __`Decimal To Binary`__
